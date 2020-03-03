@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JobList-InternshipTask</string>
+    <string name="type">type</string>
+    <string name="title">title</string>
+    <string name="companyname">CompanyName</string>
+    <string name="search">Search</string>
+</resources>
